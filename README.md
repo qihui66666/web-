@@ -474,7 +474,7 @@ ul.list3 li a{
 		<div class="qianduan">
 			<div class="picture">
 				<a href="">
-					<img src="" class="pi">
+					<img src="11.jpg" class="pi">
 					<ul>
 						<li>微软人工智能-数据分析平台</li>
 						<li class="re">高级</li>
@@ -484,7 +484,7 @@ ul.list3 li a{
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="11.jpg" class="pi">
+					<img src="12.jpg" class="pi">
 					<ul>
 						<li>Unity Profiler入门</li>
 						<li class="re">高级</li>
@@ -494,7 +494,7 @@ ul.list3 li a{
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="12.jpg" class="pi">
+					<img src="13.jpg" class="pi">
 					<ul>
 						<li>Cocos2d-x 引擎源码中的纹理优化</li>
 						<li class="re">高级</li>
@@ -504,7 +504,7 @@ ul.list3 li a{
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="13.jpg" class="pi">
+					<img src="14.jpg" class="pi">
 					<ul>
 						<li>Kami2首页界面切换效果</li>
 						<li class="re">高级</li>
@@ -514,7 +514,7 @@ ul.list3 li a{
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="14.jpg" class="pi">
+					<img src="15.jpg" class="pi">
 					<ul>
 						<li>Android Hybrid APP 开发实战 H5+原生</li>
 						<li class="re">高级</li>
@@ -527,11 +527,6 @@ ul.list3 li a{
 		<div class="niuren">
 			<div class="grad">
 				<a href="">
-					<img src="15.jpg">
-				</a>
-			</div>
-			<div class="people">
-				<a href="">
 					<img src="16.jpg">
 				</a>
 			</div>
@@ -543,6 +538,11 @@ ul.list3 li a{
 			<div class="people">
 				<a href="">
 					<img src="18.jpg">
+				</a>
+			</div>
+			<div class="people">
+				<a href="">
+					<img src="19.jpg">
 				</a>
 			</div>
 		</div>
