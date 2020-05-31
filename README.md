@@ -1,7 +1,4 @@
-​
-齐慧七班2019012565
 
-https://github.com/qihui66666/web-.git
 
 <!DOCTYPE html>
 <html>
