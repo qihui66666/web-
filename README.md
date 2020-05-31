@@ -51,103 +51,103 @@
 			</ul>
 		</div>
 		<h3 class="h3">精品推荐</h3>
-		<div class="jingpin">
+		<div class="jingpintuijian">
 			<div class="picture">
 				<a href="">
-					<img src="img/pic133.png" class="pic">
+					<img src="1.jpg" class="pi">
 					<ul>
 						<li>Think PHP 5.0博客系统实战项目演练</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic135.png" class="pic">
+					<img src="2.jpg" class="pi">
 					<ul>
 						<li>Android网络图片加载框架详解</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic136.png" class="pic">
+					<img src="3.jpg" class="pi">
 					<ul>
 						<li>Angular 2 最新框架+主流技术+项目实战</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic137.png" class="pic">
+					<img src="4.jpg" class="pi">
 					<ul>
 						<li>Android Hybrid APP 开发实战 H5+原生</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic137.png" class="pic">
+					<img src="5.jpg" class="pi">
 					<ul>
 						<li>Android Hybrid APP 开发实战 H5+原生</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic133.png" class="pic">
+					<img src="6.jpg" class="pc">
 					<ul>
 						<li>Think PHP 5.0博客系统实战项目演练</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic135.png" class="pic">
+					<img src="7.jpg" class="pi">
 					<ul>
 						<li>Android网络图片加载框架详解</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic136.png" class="pic">
+					<img src="8.jpg" class="pi">
 					<ul>
 						<li>Angular 2 最新框架+主流技术+项目实战</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic137.png" class="pic">
+					<img src="9.jpg" class="pi">
 					<ul>
 						<li>Android Hybrid APP 开发实战 H5+原生</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="img/pic137.png" class="pic">
+					<img src="10.jpg" class="pi">
 					<ul>
 						<li>Android Hybrid APP 开发实战 H5+原生</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
@@ -169,47 +169,47 @@
 					<img src="" class="pi">
 					<ul>
 						<li>微软人工智能-数据分析平台</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="1.jpg" class="pi">
+					<img src="11.jpg" class="pi">
 					<ul>
 						<li>Unity Profiler入门</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="2.jpg" class="pi">
+					<img src="12.jpg" class="pi">
 					<ul>
 						<li>Cocos2d-x 引擎源码中的纹理优化</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="3.jpg" class="pi">
+					<img src="13.jpg" class="pi">
 					<ul>
 						<li>Kami2首页界面切换效果</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
 			</div>
 			<div class="picture">
 				<a href="">
-					<img src="4.jpg" class="pi">
+					<img src="14.jpg" class="pi">
 					<ul>
 						<li>Android Hybrid APP 开发实战 H5+原生</li>
-						<li class="red">高级</li>
+						<li class="re">高级</li>
 						<li class="study">1125人在学习</li>
 					</ul>
 				</a>
@@ -219,22 +219,22 @@
 		<div class="niuren">
 			<div class="grad">
 				<a href="">
-					<img src="5.jpg">
+					<img src="15.jpg">
 				</a>
 			</div>
 			<div class="people">
 				<a href="">
-					<img src="6.jpg">
+					<img src="16.jpg">
 				</a>
 			</div>
 			<div class="people">
 				<a href="">
-					<img src="7.jpg">
+					<img src="17.jpg">
 				</a>
 			</div>
 			<div class="people">
 				<a href="">
-					<img src="8.jpg">
+					<img src="18.jpg">
 				</a>
 			</div>
 		</div>
@@ -244,7 +244,7 @@
 				<li class="explain">致力于普及中国最好的教育，与中国一流大学和机构合作提供在线课程</li>
 				<li class="app"><a href="">下载APP</a></li>
 			</ul>
-			<ul class="list1">
+			<ul class="li1">
 				<li class="about">关于雪梨网</li>
 				<li class="blank">blank</li>
 				<li><a href="">关于</a></li>
@@ -253,7 +253,7 @@
 				<li><a href="">客户服务</a></li>
 				<li><a href="">帮助</a></li>
 			</ul>
-			<ul class="list2">
+			<ul class="li2">
 				<li class="about">新手指南</li>
 				<li class="blank">blank</li>
 				<li><a href="">如何注册</a></li>
@@ -262,7 +262,7 @@
 				<li><a href="">学分是什么</a></li>
 				<li><a href="">考试未通过怎么办</a></li>
 			</ul>
-			<ul class="list3">
+			<ul class="li3">
 				<li class="about">合作伙伴</li>
 				<li class="blank">blank</li>
 				<li><a href="">合作机构</a></li>
